@@ -1,10 +1,6 @@
 # hungarian_python
 Hungarian algorithm module written in python using numpy for assignment problem.
 
-### motivaiton
-The existing Python library seems NOT able to optimize the assignment well.
-
-
 # input
 The input object must satisfy the following conditions.
 1. the type of the object must be **np.ndarray**
